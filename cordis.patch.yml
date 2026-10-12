@@ -1,0 +1,4 @@
+# WooDy 剧本工作室(三合一) · bundle 挂载声明
+- insert:
+    - id: woody-studio
+      name: dsh-woody-studio
